@@ -14,7 +14,7 @@ E-commerce Web Application
 - Test Cases
 - Bug Report
 - Requirement Traceability Matrix (RTM)
-- Test Summary Report
+- Test Report
 
 ## Tools Used
 - MS Excel
