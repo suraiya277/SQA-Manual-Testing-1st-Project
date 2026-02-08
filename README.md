@@ -40,9 +40,12 @@ It demonstrates the **complete software testing lifecycle**, from planning and t
 ---
 
 ## Tools Used
-- **MS Excel:** Test case design, bug reporting  , RTM
-- **MS Word:** Test Plan and Test Report documentation  
-- **Manual Testing:** Functional, smoke, and regression testing  
+- **MS Excel:** Test case design, bug reporting, RTM
+- **MS Word:** Test Plan and Test Report documentation
+- **Jira:** Bug tracking and issue management using Kanban board
+- **Manual Testing:** Functional, smoke, and regression testing
+- **Version Control:** Git & GitHub
+
 
 ---
 
